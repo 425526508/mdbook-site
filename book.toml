@@ -1,0 +1,6 @@
+[book]
+authors = ["Hu Zhiqi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mybook"
